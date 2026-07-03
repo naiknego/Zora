@@ -1,0 +1,6 @@
+{
+  "name": "RikkaHub",
+  "description": "RikkaHub is an Android application that supports multiple LLM providers, offering responsive chat, customizable system prompts, reasoning modes, and deep-thinking interactions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
